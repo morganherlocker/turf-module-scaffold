@@ -5,8 +5,8 @@
   "main": "''",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "sh create"
   },
+  "bin": "create",
   "repository": {
     "type": "git",
     "url": "https://github.com/morganherlocker/turf-module-scaffold.git"
