@@ -1,0 +1,4 @@
+touch index.js
+touch test.js
+npm init
+npm install tape --save-dev

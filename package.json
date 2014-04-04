@@ -1,0 +1,20 @@
+{
+  "name": "turf-module-scaffold",
+  "version": "0.1.0",
+  "description": "script for generating new turf modules",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "sh create"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganherlocker/turf-module-scaffold.git"
+  },
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/turf-module-scaffold/issues"
+  },
+  "homepage": "https://github.com/morganherlocker/turf-module-scaffold"
+}
